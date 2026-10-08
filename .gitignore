@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# generated outputs / submission files (not part of the repo)
+results/
+report/
+IMT2024027_pred_var*.csv
+ML_Assignment_1.pdf
+sample_submission.csv
